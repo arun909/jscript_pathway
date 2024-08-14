@@ -17,6 +17,6 @@ r2.question('ENTER ARRAY LIMIT: ', (input) => {
             console.log(i);
         }
 
-    // Close the readline interface
+    
     r2.close();
 });
