@@ -1,6 +1,8 @@
 // Arithmetic Operators
 let a = 10;
+//Java script 
 let b = 5;
+
 
 console.log("Arithmetic Operators:");
 console.log("Addition: a + b =", a + b);         // Adds a and b
