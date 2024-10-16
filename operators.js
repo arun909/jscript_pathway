@@ -22,9 +22,12 @@ console.log("x -= 3 results in x =", x);
 // Comparison Operators
 let isEqual = (a == b);
 let isIdentical = (a === b);
+
+
 let isNotEqual = (a != b);
 let isGreater = (a > b);
 let isLessOrEqual = (a <= b);
+
 
 console.log("\nComparison Operators:");
 console.log("Is a equal to b (a == b)?", isEqual);          // Checks if a is equal to b (non-strict)
